@@ -1,3 +1,6 @@
+
+[untitled.webm](https://github.com/user-attachments/assets/4f587cce-fafd-4ed9-b0ce-6ef614449319)
+
 This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
 
 # Getting Started
